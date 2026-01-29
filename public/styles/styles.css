@@ -1,6 +1,8 @@
 body {
 	background-color: #ffe7f8;
 	font: 1.2em monospace;
+	padding-left: 2em;
+	padding-right: 2em;
 }
 
 header {
