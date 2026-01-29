@@ -1,6 +1,6 @@
         </article>
         <footer>
-            <p class="footer">&copy; 2024 Roseeewater</p>
+            <p class="footer">&copy; 2026 Roseeewater</p>
         </footer>
     </body>
 
