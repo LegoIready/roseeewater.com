@@ -1,5 +1,27 @@
 body {
-	background-color: lightpink;
+	background-color: #ffe7f8;
+	font: 1.2em monospace;
+}
+
+header {
+	background-color: white;
+	text-align: center;
+	border: solid;
+	padding-bottom: 1em;
+}
+
+header a {
+	color: black;
+	text-decoration: none;
+}
+
+nav {
+	padding-top: 1em;
+}
+
+nav a {
+	border: solid;
+	padding: 1em;
 }
 
 footer {
