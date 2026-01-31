@@ -9,7 +9,6 @@ header {
 	background-color: white;
 	text-align: center;
 	border: solid;
-	padding-bottom: 1em;
 }
 
 header a {
@@ -17,13 +16,10 @@ header a {
 	text-decoration: none;
 }
 
-nav {
-	padding-top: 1em;
-}
-
 nav a {
 	border: solid;
 	padding: 1em;
+	display: inline-block;
 }
 
 h1 {
