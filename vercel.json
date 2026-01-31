@@ -14,6 +14,10 @@
             "dest": "/api/education.php"
         },
         {
+            "src": "/publications",
+            "dest": "/api/publications.php"
+        },
+        {
             "src": "/public/(.*)",
             "dest": "/$1"
         }
