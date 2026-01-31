@@ -16,6 +16,7 @@
             <nav>
                 <a href="/">Home</a>
                 <a href="/education">Education</a>
+                <a href="/publications">Publications</a>
             </nav>
         </header>
         <article>
