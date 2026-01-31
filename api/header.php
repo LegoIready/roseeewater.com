@@ -15,6 +15,7 @@
             <h1><a href="">ROSEEEWATER</a></h1>
             <nav>
                 <a href="">Home</a>
+                <a href="education">Education</a>
             </nav>
         </header>
         <article>
