@@ -22,6 +22,10 @@
             "dest": "/api/projects.php"
         },
         {
+            "src": "/notes",
+            "dest": "/api/notes.php"
+        },
+        {
             "src": "/public/(.*)",
             "dest": "/$1"
         }

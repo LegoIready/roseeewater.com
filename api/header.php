@@ -12,9 +12,9 @@
 
     <body>
         <header>
-            <h1><a href="">ROSEEEWATER</a></h1>
+            <h1><a href="/">ROSEEEWATER</a></h1>
             <nav>
-                <a href="/">Home</a><a href="/education">Education</a><a href="/publications">Publications</a><a href="/projects">Projects</a>
+                <a href="/">Home</a><a href="/education">Education</a><a href="/publications">Publications</a><a href="/projects">Projects</a><a href="/notes">Notes</a>
             </nav>
         </header>
         <article>
