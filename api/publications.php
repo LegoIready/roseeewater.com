@@ -36,7 +36,7 @@ I am contributing to three in-progress papers as part of my work with Professor 
     <li><a href="http://rosepages.wikidot.com/wiki:mafiamystery" target="_blank">"Mafia Mystery."</a> 2020.</li>
 </ul>
 <h2>Fiction</h2>
-<p>I have many in-progress works on my <a href="https://www.wattpad.com/user/Roseeewater" target="_blank">Wattpad account</a>, and a couple finished works:</p>
+<p>I have many in-progress works on my <a href="https://www.wattpad.com/user/Roseeewater" target="_blank">Wattpad account</a>, and a couple of finished works:</p>
 <ul>
     <li>Emilie Cronk and <u>Rose Enos</u>. <i>BPR</i>. 2020.</li>
     <li><a href="https://www.wattpad.com/story/183135773-teal-love" target="_blank"><i>Teal Love</i>.</a> 2019.</li>
