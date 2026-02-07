@@ -41,6 +41,11 @@ I am contributing to three in-progress papers as part of my work with Professor 
     <li>Emilie Cronk and <u>Rose Enos</u>. <i>BPR</i>. 2020.</li>
     <li><a href="https://www.wattpad.com/story/183135773-teal-love" target="_blank"><i>Teal Love</i>.</a> 2019.</li>
 </ul>
+<p>I have a lot of short pieces and oneshots (soon to appear):</p>
+<ul>
+    <li><a href="https://archiveofourown.org/works/78779096" target="_blank">"XO Analog Love."</a> 2026.</li>
+</ul>
+<h2>Music</h2>
 <p>I composed a piece for one of my games:</p>
 <ul>
     <li><a href="https://musescore.com/user/31948198/scores/22453126" target="_blank">"In The Shadows."</a> 2024.</li>
