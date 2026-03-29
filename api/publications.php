@@ -4,7 +4,12 @@ include("header.php");
 ?>
 <h1>Publications</h1>
 <h2>Research</h2>
-I am contributing to three in-progress papers as part of my work with Professor Michael Shindler on computer science education.</p>
+<p>I am contributing to three in-progress papers as part of my work with Professor Michael Shindler on computer science education.</p>
+<p>Lightning talks:</p>
+<ul>
+    <li>"Writing Better Papers: Research as Protagonistic Literature." 19th Consortium for Computing Sciences in Colleges Southwest Region Conference, 27–28 March 2026.</li>
+    <li><u>Rose Enos</u> and Julia Nguyen. "Economic, Social, and Cultural Factors in Student Experiences in Upper-Division and Graduate Computer Science Programs." 19th Consortium for Computing Sciences in Colleges Southwest Region Conference, 27–28 March 2026.</li>
+</ul>
 <p>The following papers were individual coursework in undergrad:</p>
 <ul>
     <li><a href="https://sites.google.com/uci.edu/the-hip" target="_blank"><i>The Hip</i>.</a> 2024.</li>
