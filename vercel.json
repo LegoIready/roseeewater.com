@@ -4,34 +4,14 @@
             "runtime": "vercel-php@0.7.3"
         }
     },
-    "routes": [
+    "rewrites": [
         {
-            "src": "/",
-            "dest": "/api/index.php"
+            "source": "/:path*",
+            "destination": "/api/:path*.php"
         },
         {
-            "src": "/education",
-            "dest": "/api/education.php"
-        },
-        {
-            "src": "/work",
-            "dest": "/api/work.php"
-        },
-        {
-            "src": "/publications",
-            "dest": "/api/publications.php"
-        },
-        {
-            "src": "/projects",
-            "dest": "/api/projects.php"
-        },
-        {
-            "src": "/notes",
-            "dest": "/api/notes.php"
-        },
-        {
-            "src": "/public/(.*)",
-            "dest": "/$1"
+            "source": "/public/:path*",
+            "destination": "/:path*"
         }
     ]
 }
