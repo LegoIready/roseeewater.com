@@ -30,6 +30,7 @@ include("header.php");
 </ul>
 <h2>Miscellaneous</h2>
 <ul>
+    <li><a href="https://github.com/LegoIready/tteokbokki" target="_blank">Tteokbokki.</a> 2026.</li>
     <li><a href="https://github.com/LegoIready/catbot" target="_blank">CatBot.</a> 2020.</li>
 </ul>
 <?php
