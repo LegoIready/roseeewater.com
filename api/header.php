@@ -5,6 +5,7 @@
         <title>
             <?php echo $title ?> - Roseeewater
         </title>
+        <link rel="icon" type="image/x-icon" href="/images/rocky.ico">
         <meta charset="utf-8">
         <link rel="stylesheet" type="text/css" href="/styles/styles.css">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
