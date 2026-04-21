@@ -30,6 +30,29 @@ a {
 	color: blue;
 }
 
+img {
+	float: right;
+	margin-left: 1%;
+	margin-bottom: 1%;
+	border: solid;
+	object-fit: cover;
+	aspect-ratio:1
+}
+
 footer {
 	text-align: center;
+}
+
+/* Small devices and below */
+@media only screen and (max-width: 768px) {
+	img {
+		width: 45%
+	}
+}
+
+/* Medium devices and above */
+@media only screen and (min-width: 768px) {
+	img {
+		width: 20%
+	}
 }
