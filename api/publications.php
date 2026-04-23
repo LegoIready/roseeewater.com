@@ -7,8 +7,8 @@ include("header.php");
 <p>I am contributing to three in-progress papers as part of my work with Professor Michael Shindler on computer science education.</p>
 <p>Lightning talks:</p>
 <ul>
-    <li>"Writing Better Papers: Research as Protagonistic Literature." 19th Consortium for Computing Sciences in Colleges Southwest Region Conference, 27–28 March 2026.</li>
-    <li><u>Rose Enos</u> and Julia Nguyen. "Economic, Social, and Cultural Factors in Student Experiences in Upper-Division and Graduate Computer Science Programs." 19th Consortium for Computing Sciences in Colleges Southwest Region Conference, 27–28 March 2026.</li>
+    <li><a href="/files/lightning_talks/Writing Better Papers: Research as Protagonistic Literature.pdf" target="_blank">"Writing Better Papers: Research as Protagonistic Literature."</a> 19th Consortium for Computing Sciences in Colleges Southwest Region Conference, 27–28 March 2026.</li>
+    <li><u>Rose Enos</u> and Julia Nguyen. <a href="/files/lightning_talks/Economic, Social, and Cultural Factors in Student Experiences in Upper-Division and Graduate Computer Science Programs.pdf" target="_blank">"Economic, Social, and Cultural Factors in Student Experiences in Upper-Division and Graduate Computer Science Programs."</a> 19th Consortium for Computing Sciences in Colleges Southwest Region Conference, 27–28 March 2026.</li>
 </ul>
 <p>The following papers were individual coursework in undergrad:</p>
 <ul>
