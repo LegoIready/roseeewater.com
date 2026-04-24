@@ -10,7 +10,7 @@ include("header.php");
     <li><a href="/files/lightning_talks/Writing Better Papers: Research as Protagonistic Literature.pdf" target="_blank">"Writing Better Papers: Research as Protagonistic Literature."</a> 19th Consortium for Computing Sciences in Colleges Southwest Region Conference, 27–28 March 2026.</li>
     <li><u>Rose Enos</u> and Julia Nguyen. <a href="/files/lightning_talks/Economic, Social, and Cultural Factors in Student Experiences in Upper-Division and Graduate Computer Science Programs.pdf" target="_blank">"Economic, Social, and Cultural Factors in Student Experiences in Upper-Division and Graduate Computer Science Programs."</a> 19th Consortium for Computing Sciences in Colleges Southwest Region Conference, 27–28 March 2026.</li>
 </ul>
-<p>The following papers were individual coursework in undergrad:</p>
+<p>Coursework:</p>
 <ul>
     <li><a href="https://sites.google.com/uci.edu/the-hip" target="_blank"><i>The Hip</i>.</a> 2024.</li>
     <li><a href="/files/papers/Going Home: How The Rocky Horror Picture Show Throws Dr. Frank-N-Furter and the Audience into Cyclical Queer Fantasy.pdf" target="_blank">"Going Home: How <i>The Rocky Horror Picture Show</i> throws Dr. Frank-N-Furter and the Audience into Cyclical Queer Fantasy."</a> 2024.</li>
