@@ -5,6 +5,10 @@ include("header.php");
 <h1>Publications</h1>
 <h2>Research</h2>
 <p>I am contributing to three in-progress papers as part of my work with Professor Michael Shindler on computer science education.</p>
+<p>Journal articles:</p>
+<ul>
+    <li><a href="/public/files/journal_articles/Notes on Finite-State Discrete-Time Markov Chains.pdf" target="_blank">"Notes on Finite-State Discrete-Time Markov Chains."</a> University of California, Irvine Undergraduate Mathematics Committee Student Journal, vol. 0.</li>
+</ul>
 <p>Lightning talks:</p>
 <ul>
     <li><a href="/files/lightning_talks/Writing Better Papers: Research as Protagonistic Literature.pdf" target="_blank">"Writing Better Papers: Research as Protagonistic Literature."</a> 19th Consortium for Computing Sciences in Colleges Southwest Region Conference, 27–28 March 2026.</li>
@@ -13,11 +17,11 @@ include("header.php");
 <p>Coursework:</p>
 <ul>
     <li><a href="https://sites.google.com/uci.edu/the-hip" target="_blank"><i>The Hip</i>.</a> 2024.</li>
-    <li><a href="/files/papers/Going Home: How The Rocky Horror Picture Show Throws Dr. Frank-N-Furter and the Audience into Cyclical Queer Fantasy.pdf" target="_blank">"Going Home: How <i>The Rocky Horror Picture Show</i> throws Dr. Frank-N-Furter and the Audience into Cyclical Queer Fantasy."</a> 2024.</li>
-    <li><a href="/files/papers/The Alienation of the Human: Personal and Interpersonal Dissociation in Soy Cuba.pdf" target="_blank">"The Alienation of the Human: Personal and Interpersonal Dissociation in <i>Soy Cuba</i>."</a> 2024.</li>
-    <li><a href="/files/papers/My Eyes Are Up Here: Insistent Subjectification in Carrie Mae Weems’s A Veiled Woman.pdf" target="_blank">"My Eyes Are Up Here: Insistent Subjectification in Carrie Mae Weems's <i>A Veiled Woman</i>."</a> 2024.</li>
-    <li><a href="/files/papers/Love Thy Neighbor: Queer Acceptance in The Decameron.pdf" target="_blank">"Love Thy Neighbor: Queer Acceptance in <i>The Decameron</i>."</a> 2023.</li>
-    <li><a href="/files/papers/The Illegitimate Axioms of Plato’s Republic.pdf" target="_blank">"The Illegitimate Axioms of Plato's <i>Republic</i>."</a> 2023.</li>
+    <li><a href="/files/coursework/Going Home: How The Rocky Horror Picture Show Throws Dr. Frank-N-Furter and the Audience into Cyclical Queer Fantasy.pdf" target="_blank">"Going Home: How <i>The Rocky Horror Picture Show</i> throws Dr. Frank-N-Furter and the Audience into Cyclical Queer Fantasy."</a> 2024.</li>
+    <li><a href="/files/coursework/The Alienation of the Human: Personal and Interpersonal Dissociation in Soy Cuba.pdf" target="_blank">"The Alienation of the Human: Personal and Interpersonal Dissociation in <i>Soy Cuba</i>."</a> 2024.</li>
+    <li><a href="/files/coursework/My Eyes Are Up Here: Insistent Subjectification in Carrie Mae Weems’s A Veiled Woman.pdf" target="_blank">"My Eyes Are Up Here: Insistent Subjectification in Carrie Mae Weems's <i>A Veiled Woman</i>."</a> 2024.</li>
+    <li><a href="/files/coursework/Love Thy Neighbor: Queer Acceptance in The Decameron.pdf" target="_blank">"Love Thy Neighbor: Queer Acceptance in <i>The Decameron</i>."</a> 2023.</li>
+    <li><a href="/files/coursework/The Illegitimate Axioms of Plato’s Republic.pdf" target="_blank">"The Illegitimate Axioms of Plato's <i>Republic</i>."</a> 2023.</li>
 </ul>
 <h2>Periodical</h2>
 <p>I was a writer for the UCI chapter of Her Campus for two years:</p>
