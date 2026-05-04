@@ -4,14 +4,15 @@
             "runtime": "vercel-php@0.7.3"
         }
     },
+    "cleanUrls": true,
     "rewrites": [
         {
             "source": "/",
-            "destination": "/api/index.php"
+            "destination": "/api/index"
         },
         {
             "source": "/:path*",
-            "destination": "/api/:path*.php"
+            "destination": "/api/:path*"
         },
         {
             "source": "/public/:path*",
