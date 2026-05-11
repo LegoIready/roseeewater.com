@@ -23,7 +23,7 @@ include("header.php");
     <li>Ben Zhang. <a href="https://geminibllllue.itch.io/diabolic-lord-tdlf" target="_blank">Diabolic Lord.</a> Written by <u>Rose Enos</u>, 2024.</li>
 </ul>
 <h2>Websites</h2>
-<p>My first programming languages were HTML, CSS, and JavaScript. In high school I took a course on PHP/SQL. Here are some websites I have made:</p>
+<p>My first programming languages were HTML, CSS, and JavaScript. In high school, I took a course on PHP/SQL. Here are some websites I have made:</p>
 <ul>
     <li><a href="https://github.com/LegoIready/toursite" target="_blank">Blackpink Cover Tour.</a> 2023.</li>
     <li>Web Development Project. 2018.</li>

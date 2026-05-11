@@ -4,7 +4,7 @@ include("header.php");
 ?>
 <h1>Publications</h1>
 <h2>Research</h2>
-<p>I am contributing to three in-progress papers as part of my work with Professor Michael Shindler on computer science education.</p>
+<p>I am contributing to three in-progress papers as part of my work with <?php mention($sites["michael"],"Professor Michael Shindler"); ?> on computer science education.</p>
 <p>Journal articles:</p>
 <ul>
     <li><a href="/public/files/journal_articles/Notes on Finite-State Discrete-Time Markov Chains.pdf" target="_blank">"Notes on Finite-State Discrete-Time Markov Chains."</a> University of California, Irvine Undergraduate Mathematics Committee Student Journal, vol. 0.</li>

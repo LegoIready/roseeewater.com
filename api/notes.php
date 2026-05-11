@@ -16,7 +16,7 @@ include("header.php");
     <li><a href="/files/notes/Rose's Programming in Python.pdf" target="_blank">"Rose's Programming in Python."</a> 2024.</li>
     <li><a href="/files/notes/Rose's Programming in C++.pdf" target="_blank">"Rose's Programming in C++."</a> 2024.</li>
 </ul>
-<h2>Physics</h2>
+<!--<h2>Physics</h2>-->
 <?php
 include("footer.php");
 ?>
