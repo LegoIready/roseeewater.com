@@ -12,7 +12,7 @@ include("header.php");
 <p>Lightning talks:</p>
 <ul>
     <li><a href="/files/lightning_talks/Writing Better Papers: Research as Protagonistic Literature.pdf" target="_blank">"Writing Better Papers: Research as Protagonistic Literature."</a> 19th Consortium for Computing Sciences in Colleges Southwest Region Conference, 27–28 March 2026.</li>
-    <li><u>Rose Enos</u> and Julia Nguyen. <a href="/files/lightning_talks/Economic, Social, and Cultural Factors in Student Experiences in Upper-Division and Graduate Computer Science Programs.pdf" target="_blank">"Economic, Social, and Cultural Factors in Student Experiences in Upper-Division and Graduate Computer Science Programs."</a> 19th Consortium for Computing Sciences in Colleges Southwest Region Conference, 27–28 March 2026.</li>
+    <li><u>Rose Enos</u> and <?php mention($sites["julia"],"Julia Nguyen"); ?>. <a href="/files/lightning_talks/Economic, Social, and Cultural Factors in Student Experiences in Upper-Division and Graduate Computer Science Programs.pdf" target="_blank">"Economic, Social, and Cultural Factors in Student Experiences in Upper-Division and Graduate Computer Science Programs."</a> 19th Consortium for Computing Sciences in Colleges Southwest Region Conference, 27–28 March 2026.</li>
 </ul>
 <p>Coursework:</p>
 <ul>
