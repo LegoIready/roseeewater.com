@@ -7,7 +7,7 @@ include("header.php");
 <p>I am contributing to three in-progress papers as part of my work with <?php mention($sites["michael"],"Professor Michael Shindler"); ?> on computer science education.</p>
 <p>Journal articles:</p>
 <ul>
-    <li><a href="/files/journal_articles/Notes on Finite-State Discrete-Time Markov Chains.pdf" target="_blank">"Notes on Finite-State Discrete-Time Markov Chains."</a> University of California, Irvine Undergraduate Mathematics Committee Student Journal, vol. 0, 2026.</li>
+    <li><a href="/files/journal_articles/Notes on Finite-State Discrete-Time Markov Chains.pdf" target="_blank">"Notes on Finite-State Discrete-Time Markov Chains."</a> University of California, Irvine Undergraduate Mathematics Committee Student Journal, vol. 0, 2026. (<?php mention("https://sites.uci.edu/umc/2025-26-journals","external"); ?>)</li>
 </ul>
 <p>Posters:</p>
 <ul>
