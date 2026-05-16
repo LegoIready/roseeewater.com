@@ -28,7 +28,12 @@ include("header.php");
 <p>My primary interest is computer science education. Since June of 2025, I do research, advised by <?php mention($sites["michael"],"Professor Michael Shindler"); ?>, about active learning, student experiences, and diversity, equity, and inclusion. I frequently collaborate with <?php mention($sites["julia"],"Julia Nguyen"); ?>. I apply my knowledge as a tutor for the School of ICS, as a learning assistant for the discrete math series and theory of computation, and as a peer. I intend to continue in computer science education as a PhD student.</p>
 <p>In the area of math, I am most interested in algebra and discrete math. I have completed the undergraduate series in algebra and linear algebra, and I am currently taking the analysis series. I look forward to studying logic and differential geometry.</p>
 <p>In the area of computer science, I am interested in operating systems, theory of computation, and (FOSS) programming. I have worked in Assembly, C, C++, Java, HTML, CSS, JavaScript, Next.js PHP, Python (Numpy, Pyplot, Scikit-learn), and Matlab. You can find my reviews of math and CS classes at UCI <?php mention("https://github.com/decaquestionmarks/The-New-UCI-ICS-Discord-Class-Opinions","here"); ?>.</p>
-<p>I participated in speech and debate from 5th to 12th grade. In high school, I focused on policy effects and issues linked to capitalism, with Leo Hsu. I was president of the debate club for two years and participated in national-circuit policy tournaments with the Sacramento Urban Debate League.</p>
+<p>I participated in speech and debate from 5th to 12th grade. In high school, I focused on policy effects and issues linked to capitalism, with Leo Hsu. I was president of the debate club for two years and participated in national-circuit policy tournaments with the Sacramento Urban Debate League. All cases are open (<?php mention("https://opencaselist.com/hspolicy21/WestCampus/EnHs","2021–2022"); ?>, <?php mention("https://opencaselist.com/hspolicy22/WestCampus/EnHs","2022–2023"); ?>).</p>
+<ul>
+    <li>Quarterfinalist, Junior Varsity Policy Debate, Western Junior Varsity Novice Championship, 2022.</li>
+    <li>First Place Winner, Junior Varsity Policy Debate, Meadows Invitational, 2021.</li>
+    <li>Second Place Winner, Junior Varsity Policy Debate, Jack Howe Memorial Tournament, 2021.</li>
+</ul>
 <p>I learned Spanish in high school and am currently learning Vietnamese. In my free time, I study physics, epistemology, critical queer theory, and moral psychology, and I play the piano.</p>
 <?php
 include("footer.php");
