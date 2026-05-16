@@ -12,6 +12,9 @@ include("header.php");
 <p>Posters:</p>
 <ul>
     <li><u>Rose Enos</u> and <?php mention($sites["julia"],"Julia Nguyen"); ?>. <?php mention("/files/posters/Economic, Social, and Cultural Factors in Student Experiences in Upper-Division and Graduate Computer Science Programs.png","Economic, Social, and Cultural Factors in Student Experiences in Upper-Division and Graduate Computer Science Programs"); ?>. 2026 University of California, Irvine Undergraduate Research Symposium, 11–15 May 2026. (<?php mention("https://uciurop.infoready4.com/#learnMore/65282","external"); ?>)
+        <ul>
+            <li>Finalist, Poster Presentation Award</li>
+        </ul>
     </li>
 </ul>
 <p>Lightning talks:</p>
@@ -24,7 +27,11 @@ include("header.php");
     <li><a href="https://sites.google.com/uci.edu/the-hip" target="_blank"><i>The Hip</i>.</a> 2024.</li>
     <li><a href="/files/coursework/Going Home: How The Rocky Horror Picture Show Throws Dr. Frank-N-Furter and the Audience into Cyclical Queer Fantasy.pdf" target="_blank">"Going Home: How <i>The Rocky Horror Picture Show</i> throws Dr. Frank-N-Furter and the Audience into Cyclical Queer Fantasy."</a> 2024.</li>
     <li><a href="/files/coursework/The Alienation of the Human: Personal and Interpersonal Dissociation in Soy Cuba.pdf" target="_blank">"The Alienation of the Human: Personal and Interpersonal Dissociation in <i>Soy Cuba</i>."</a> 2024.</li>
-    <li><a href="/files/coursework/My Eyes Are Up Here: Insistent Subjectification in Carrie Mae Weems’s A Veiled Woman.pdf" target="_blank">"My Eyes Are Up Here: Insistent Subjectification in Carrie Mae Weems's <i>A Veiled Woman</i>."</a> 2024.</li>
+    <li><a href="/files/coursework/My Eyes Are Up Here: Insistent Subjectification in Carrie Mae Weems’s A Veiled Woman.pdf" target="_blank">"My Eyes Are Up Here: Insistent Subjectification in Carrie Mae Weems's <i>A Veiled Woman</i>."</a> 2024.
+        <ul>
+            <li>Nominee, Nora Folkenflik Memorial Essay Award</li>
+        </ul>
+    </li>
     <li><a href="/files/coursework/Love Thy Neighbor: Queer Acceptance in The Decameron.pdf" target="_blank">"Love Thy Neighbor: Queer Acceptance in <i>The Decameron</i>."</a> 2023.</li>
     <li><a href="/files/coursework/The Illegitimate Axioms of Plato’s Republic.pdf" target="_blank">"The Illegitimate Axioms of Plato's <i>Republic</i>."</a> 2023.</li>
 </ul>

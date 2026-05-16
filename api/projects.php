@@ -10,7 +10,11 @@ include("header.php");
     <li><u>Rose Enos</u> and <?php mention($sites["julia"],"Julia Nguyen"); ?>. <a href="https://lego-iready.itch.io/uc-cursed-love" target="_blank">UC Cursed Love.</a> ZotJam, 2025.</li>
     <li><u>Rose Enos</u>, <?php mention($sites["julia"],"Julia Nguyen"); ?>, and Cynthia Roxanne Ortiz. <a href="https://github.com/jploia/ucibogosort" target="_blank">Garbagotchi.</a> IrvineHacks, 2025.</li>
     <li><a href="https://lego-iready.itch.io/nest-of-life" target="_blank">Nest of Life.</a> ZotJam, 2024.</li>
-    <li><u>Rose Enos</u>, Jaden Kim, Jason Nguyen, and Cynthia Roxanne Ortiz. <a href="https://uciseek.roseeewater.com" target="_blank">UCISeek.</a> ZotHacks, 2024.</li>
+    <li><u>Rose Enos</u>, Jaden Kim, Jason Nguyen, and Cynthia Roxanne Ortiz. <a href="https://uciseek.roseeewater.com" target="_blank">UCISeek.</a> ZotHacks, 2024.
+        <ul>
+            <li>Winner, Third Place Award</li>
+        </ul>
+    </li>
     <li><a href="https://github.roseeewater.com/licatanai/licatanai.html" target="_blank">Settlers of Catan Companion.</a> 2020.</li>
     <li><a href="https://github.roseeewater.com/licatanai/ms.html" target="_blank">Minesweeper.</a> 2020.</li>
     <li><a href="https://github.roseeewater.com/marner/fnaf1.html" target="_blank">Five Nights at Freddy's.</a> 2015.</li>
