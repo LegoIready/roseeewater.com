@@ -12,7 +12,7 @@ include("header.php");
     <li><a href="https://lego-iready.itch.io/nest-of-life" target="_blank">Nest of Life.</a> ZotJam, 2024.</li>
     <li><u>Rose Enos</u>, Jaden Kim, Jason Nguyen, and Cynthia Roxanne Ortiz. <a href="https://uciseek.roseeewater.com" target="_blank">UCISeek.</a> ZotHacks, 2024.
         <ul>
-            <li>Winner, Third Place Award</li>
+            <li>Third Place Winner</li>
         </ul>
     </li>
     <li><a href="https://github.roseeewater.com/licatanai/licatanai.html" target="_blank">Settlers of Catan Companion.</a> 2020.</li>
