@@ -23,6 +23,7 @@ include("header.php");
             <li>Thesis: TBD</li>
         </ul>
     </li>
+    <li>Phi Beta Kappa</li>
 </ul>
 <p>My primary interest is computer science education. Since June of 2025, I do research, advised by <?php mention($sites["michael"],"Professor Michael Shindler"); ?>, about active learning, student experiences, and diversity, equity, and inclusion. I frequently collaborate with <?php mention($sites["julia"],"Julia Nguyen"); ?>. I apply my knowledge as a tutor for the School of ICS, as a learning assistant for the discrete math series and theory of computation, and as a peer. I intend to continue in computer science education as a PhD student.</p>
 <p>In the area of math, I am most interested in algebra and discrete math. I have completed the undergraduate series in algebra and linear algebra, and I am currently taking the analysis series. I look forward to studying logic and differential geometry.</p>
