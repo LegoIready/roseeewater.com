@@ -11,7 +11,7 @@ include("header.php");
 </ul>
 <p>Posters:</p>
 <ul>
-    <li><u>Rose Enos</u> and <?php mention($sites["julia"],"Julia Nguyen"); ?>. <?php mention("/files/posters/Economic, Social, and Cultural Factors in Student Experiences in Upper-Division and Graduate Computer Science Programs.png","Economic, Social, and Cultural Factors in Student Experiences in Upper-Division and Graduate Computer Science Programs"); ?>. 2026 University of California, Irvine Undergraduate Research Symposium, 15 May 2026. (<?php mention("https://uciurop.infoready4.com/#learnMore/65282","external"); ?>)
+    <li><u>Rose Enos</u> and <?php mention($sites["julia"],"Julia Nguyen"); ?>. <?php mention("/files/posters/Economic, Social, and Cultural Factors in Student Experiences in Upper-Division and Graduate Computer Science Programs.png","Economic, Social, and Cultural Factors in Student Experiences in Upper-Division and Graduate Computer Science Programs"); ?>. 2026 University of California, Irvine Undergraduate Research Symposium, 11–15 May 2026. (<?php mention("https://uciurop.infoready4.com/#learnMore/65282","external"); ?>)
     </li>
 </ul>
 <p>Lightning talks:</p>
