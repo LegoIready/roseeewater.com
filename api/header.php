@@ -4,7 +4,7 @@
 
     <head>
         <title>
-            <?php echo $title ?> - Roseeewater
+            <?php echo ($title === 'Home' ? '' : "$title - "); ?>Roseeewater
         </title>
         <link rel="icon" type="image/x-icon" href="/images/rocky.ico">
         <meta charset="utf-8">
