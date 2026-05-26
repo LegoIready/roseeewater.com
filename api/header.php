@@ -10,6 +10,7 @@
         <meta charset="utf-8">
         <link rel="stylesheet" type="text/css" href="/styles/styles.css">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <?php echo (strlen($description) === 0 ? '' : "<meta name=\"description\" content=\"$description\">"); ?>
     </head>
 
     <body>
