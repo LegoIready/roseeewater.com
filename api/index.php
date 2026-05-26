@@ -1,6 +1,7 @@
 <?php
-$title = "Home";
-include("header.php");
+$title = 'Home';
+$description = 'Hello! I\'m Rose Enos (she/they), a student at UC Irvine, where I study mathematics and computer science. I do research on student experiences in CS.';
+include('header.php');
 ?>
 <img src="/images/rose.png" alt="Selfie by Rose Enos at a temple">
 <p>Hello! I'm Rose Enos (she/they), a student at UC Irvine, where I study pure mathematics and intelligent computer systems. I do research on student experiences and diversity, equity, and inclusion in computer science. I also work as a tutor for the School of Information and Computer Sciences and as a learning assistant for the discrete math series. My curriculum vitae is <?php mention("/files/CV.pdf","here"); ?>.</p>
