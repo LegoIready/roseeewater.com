@@ -3,15 +3,15 @@ $title = "Education";
 include("header.php");
 ?>
 <h1>Education</h1>
-<p>I graduated as valedictorian from West Campus High School in Sacramento. I'm currently pursuing the following degrees at the University of California, Irvine:</p>
+<p>I graduated as valedictorian from West Campus High School in Sacramento. I'm currently pursuing the following degrees at the <b>University of California, Irvine (UCI)</b>:</p>
 <ul>
-    <li>B.S., Pure Mathematics, School of Physical Sciences
+    <li><b>B.S., Pure Mathematics</b>, School of Physical Sciences
         <ul>
             <li>Honors Program in Mathematics</li>
             <li>Thesis: TBD</li>
         </ul>
     </li>
-    <li>B.S., Computer Science, Donald Bren School of Information and Computer Sciences
+    <li><b>B.S., Computer Science</b>, Donald Bren School of Information and Computer Sciences
         <ul>
             <li>Specialization: Intelligent Systems</li>
             <li>Information and Computer Sciences Honors Program (planned)</li>
