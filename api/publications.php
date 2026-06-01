@@ -1,17 +1,17 @@
 <?php
-$title = "Publications";
-include("header.php");
+$title = 'Publications';
+include('header.php');
 ?>
 <h1>Publications</h1>
 <h2>Research</h2>
-<p>I am contributing to three in-progress papers as part of my work with <?php mention($sites["michael"],"Professor Michael Shindler"); ?> on computer science education.</p>
+<p>I am contributing to three in-progress papers as part of my work with <?php mention($sites['michael'],'Professor Michael Shindler'); ?> on computer science education.</p>
 <p>Journal articles:</p>
 <ul>
-    <li><a href="/files/journal_articles/Notes on Finite-State Discrete-Time Markov Chains.pdf" target="_blank">"Notes on Finite-State Discrete-Time Markov Chains."</a> University of California, Irvine Undergraduate Mathematics Committee Student Journal (UMC), vol. 0, 2026. (<?php mention("https://sites.uci.edu/umc/2025-26-journals","external"); ?>)</li>
+    <li><?php mention('/files/journal_articles/Notes on Finite-State Discrete-Time Markov Chains.pdf','Notes on Finite-State Discrete-Time Markov Chains'); ?>. University of California, Irvine Undergraduate Mathematics Committee Student Journal (UMC), vol. 0, no. 1, 2 May 2026. (<?php mention('https://sites.uci.edu/umc/2025-26-journals','external'); ?>)</li>
 </ul>
 <p>Posters:</p>
 <ul>
-    <li><u>Rose Enos</u> and <?php mention($sites["julia"],"Julia Nguyen"); ?>. <?php mention("/files/posters/Economic, Social, and Cultural Factors in Student Experiences in Upper-Division and Graduate Computer Science Programs.png","Economic, Social, and Cultural Factors in Student Experiences in Upper-Division and Graduate Computer Science Programs"); ?>. 2026 University of California, Irvine Undergraduate Research Symposium (UROP), 11–15 May 2026. (<?php mention("https://uciurop.infoready4.com/#learnMore/65282","external"); ?>)
+    <li><u>Rose Enos</u> and <?php mention($sites['julia'],'Julia Nguyen'); ?>. <?php mention('/files/posters/Economic, Social, and Cultural Factors in Student Experiences in Upper-Division and Graduate Computer Science Programs.png','Economic, Social, and Cultural Factors in Student Experiences in Upper-Division and Graduate Computer Science Programs'); ?>. 2026 University of California, Irvine Undergraduate Research Symposium (UROP), 11–15 May 2026. (<?php mention('https://uciurop.infoready4.com/#learnMore/65282','external'); ?>)
         <ul>
             <li>Finalist, Poster Presentation Award</li>
         </ul>
@@ -19,12 +19,12 @@ include("header.php");
 </ul>
 <p>Lightning talks:</p>
 <ul>
-    <li><a href="/files/lightning_talks/Writing Better Papers: Research as Protagonistic Literature.pdf" target="_blank">"Writing Better Papers: Research as Protagonistic Literature."</a> 19th Consortium for Computing Sciences in Colleges Southwest Region Conference (CCSC-SW), 27–28 March 2026.</li>
-    <li><u>Rose Enos</u> and <?php mention($sites["julia"],"Julia Nguyen"); ?>. <a href="/files/lightning_talks/Economic, Social, and Cultural Factors in Student Experiences in Upper-Division and Graduate Computer Science Programs.pdf" target="_blank">"Economic, Social, and Cultural Factors in Student Experiences in Upper-Division and Graduate Computer Science Programs."</a> 19th Consortium for Computing Sciences in Colleges Southwest Region Conference (CCSC-SW), 27–28 March 2026.</li>
+    <li><?php mention('/files/lightning_talks/Writing Better Papers: Research as Protagonistic Literature.pdf','Writing Better Papers: Research as Protagonistic Literature'); ?>. 19th Consortium for Computing Sciences in Colleges Southwest Region Conference (CCSC-SW), 27–28 March 2026.</li>
+    <li><u>Rose Enos</u> and <?php mention($sites['julia'],'Julia Nguyen'); ?>. <?php mention('/files/lightning_talks/Economic, Social, and Cultural Factors in Student Experiences in Upper-Division and Graduate Computer Science Programs.pdf','Economic, Social, and Cultural Factors in Student Experiences in Upper-Division and Graduate Computer Science Programs'); ?>. 19th Consortium for Computing Sciences in Colleges Southwest Region Conference (CCSC-SW), 27–28 March 2026.</li>
 </ul>
 <p>Coursework:</p>
 <ul>
-    <li><a href="https://sites.google.com/uci.edu/the-hip" target="_blank"><i>The Hip</i>.</a> 2024.</li>
+    <li><?php mention('https://sites.google.com/uci.edu/the-hip','The Hip'); ?>. 2024.</li>
     <li><a href="/files/coursework/Going Home: How The Rocky Horror Picture Show Throws Dr. Frank-N-Furter and the Audience into Cyclical Queer Fantasy.pdf" target="_blank">"Going Home: How <i>The Rocky Horror Picture Show</i> throws Dr. Frank-N-Furter and the Audience into Cyclical Queer Fantasy."</a> 2024.</li>
     <li><a href="/files/coursework/The Alienation of the Human: Personal and Interpersonal Dissociation in Soy Cuba.pdf" target="_blank">"The Alienation of the Human: Personal and Interpersonal Dissociation in <i>Soy Cuba</i>."</a> 2024.</li>
     <li><a href="/files/coursework/My Eyes Are Up Here: Insistent Subjectification in Carrie Mae Weems’s A Veiled Woman.pdf" target="_blank">"My Eyes Are Up Here: Insistent Subjectification in Carrie Mae Weems's <i>A Veiled Woman</i>."</a> 2024.
