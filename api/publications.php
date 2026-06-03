@@ -5,10 +5,10 @@ include('header.php');
 <h1>Publications</h1>
 <h2>Research</h2>
 <p>I am contributing to three in-progress papers as part of my work with <?php mention($sites['michael'],'Professor Michael Shindler'); ?> on computer science education.</p>
-<p>Journal articles:</p>
-<ul>
-    <li><?php mention('/files/journal_articles/Notes on Finite-State Discrete-Time Markov Chains.pdf','Notes on Finite-State Discrete-Time Markov Chains'); ?>. University of California, Irvine Undergraduate Mathematics Committee Student Journal (UMC), vol. 0, no. 1, 2 May 2026. (<?php mention('https://sites.uci.edu/umc/2025-26-journals','external'); ?>)</li>
-</ul>
+<section id="journal_articles">
+    <p>Journal articles:</p>
+    <script> echo_list("journal_articles"); </script>
+</section>
 <p>Posters:</p>
 <ul>
     <li><u>Rose Enos</u> and <?php mention($sites['julia'],'Julia Nguyen'); ?>. <?php mention('/files/posters/Economic, Social, and Cultural Factors in Student Experiences in Upper-Division and Graduate Computer Science Programs.png','Economic, Social, and Cultural Factors in Student Experiences in Upper-Division and Graduate Computer Science Programs'); ?>. 2026 University of California, Irvine Undergraduate Research Symposium (UROP), 11–15 May 2026. (<?php mention('https://uciurop.infoready4.com/#learnMore/65282','external'); ?>)
