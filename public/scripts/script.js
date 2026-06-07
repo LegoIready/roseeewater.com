@@ -1,18 +1,18 @@
-function fetchJSONData(filename) {
-    fetch(filename)
+function echo_list(section_id) {
+    fetch("/files/" + section_id + "/" + section_id + ".json")
         .then(response => {
             if (!response.ok) {
                 throw new Error(`HTTP error! Status: ${response.status}`);
             }
             return response.json();  
         })
+        .then(data => generate_list(section_id, data))
         .catch(error => console.error('Failed to fetch data:', error)); 
 }
 
-function echo_list(section_id) {
+function generate_list(section_id, data) {
     str = "<ul>"
-    data = fetchJSONData("/files/" + section_id + "/" + section_id + ".json")[section_id];
-    for (const item of data) {
+    for (const item of data[section_id]) {
         str += "<li>";
         authors = item.authors;
         authors[authors.indexOf("Rose Enos")] = "<u>Rose Enos</u>";
@@ -20,16 +20,16 @@ function echo_list(section_id) {
             str += authors.join(" and ") + ".";
         else if (authors.length > 2)
             str += authors.slice(0,-1).join(", ") + ", and " + authors[-1] + ".";
-        if ("internal" in data)
-            str += " <a href=\"" + data.internal + "\" target=\"_blank\">" + data.title + "</a>.";
+        if ("internal" in item)
+            str += " <a href=\"" + item.internal + "\" target=\"_blank\">" + item.title + "</a>.";
         else
-            str += " " + data.title + ".";
-        if ("venue" in data)
-            str += " <i>" + data.venue + "</i>" + ("date" in data) ? "," : ".";
-        if ("date" in data)
-            str += " " + data.date + ".";
-        if ("external" in data)
-            str += " (<a href=\"" + data.external + "\" target=\"_blank\">external</a>)";
+            str += " " + item.title + ".";
+        if ("venue" in item)
+            str += " <i>" + item.venue + "</i>" + ("date" in item) ? "," : ".";
+        if ("date" in item)
+            str += " " + item.date + ".";
+        if ("external" in item)
+            str += " (<a href=\"" + item.external + "\" target=\"_blank\">external</a>)";
         str += "</li>";
     }
     str += "</ul>";
