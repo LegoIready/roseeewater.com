@@ -9,14 +9,10 @@ include('header.php');
     <p>Journal articles:</p>
     <script> echo_list("journal_articles"); </script>
 </section>
-<p>Posters:</p>
-<ul>
-    <li><u>Rose Enos</u> and <?php mention($sites['julia'],'Julia Nguyen'); ?>. <?php mention('/files/posters/Economic, Social, and Cultural Factors in Student Experiences in Upper-Division and Graduate Computer Science Programs.png','Economic, Social, and Cultural Factors in Student Experiences in Upper-Division and Graduate Computer Science Programs'); ?>. 2026 University of California, Irvine Undergraduate Research Symposium (UROP), 11–15 May 2026. (<?php mention('https://uciurop.infoready4.com/#learnMore/65282','external'); ?>)
-        <ul>
-            <li>Finalist, Poster Presentation Award</li>
-        </ul>
-    </li>
-</ul>
+<section id="posters">
+    <p>Posters:</p>
+    <script> echo_list("posters"); </script>
+</section>
 <p>Lightning talks:</p>
 <ul>
     <li><?php mention('/files/lightning_talks/Writing Better Papers: Research as Protagonistic Literature.pdf','Writing Better Papers: Research as Protagonistic Literature'); ?>. 19th Consortium for Computing Sciences in Colleges Southwest Region Conference (CCSC-SW), 27–28 March 2026.</li>

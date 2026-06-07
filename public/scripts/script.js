@@ -41,6 +41,8 @@ function generate_list(section_id, data) {
         }
         if ("external" in item)
             str += " (<a href=\"" + item.external + "\" target=\"_blank\">external</a>)";
+        if ("comments" in item)
+            str += "<ul><li>" + comments.join("</li><li>") + "</li></ul>";
         str += "</li>";
     }
     str += "</ul>";
