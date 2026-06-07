@@ -15,7 +15,7 @@
 
     <body>
         <script src="/scripts/script.js">
-            const sites = {
+            sites = {
                 <?php foreach ($sites as $name=>$site) echo "\"$name\": \"$site\""; ?>
             };
         </script>
