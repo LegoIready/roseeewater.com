@@ -22,7 +22,7 @@ function generate_list(section_id, data) {
         for (i=0; i<authors.length; ++i)
             if (authors[i] == myself)
                 authors[i] = `<u>${myself}</u>`;
-            else if (sites.includes(authors[i]))
+            else if (authors[i] in sites)
                 authors[i] = `<a href="${sites[authors[i]]}" target="_blank">${authors[i]}</a>`;
         if (authors.length == 2)
             str += authors.join(" and ") + ".";
