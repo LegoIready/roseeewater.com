@@ -5,8 +5,14 @@
                 "Rose Enos"
             ],
             "title": "Notes on Finite-State Discrete-Time Markov Chains",
-            "venue": "University of California, Irvine Undergraduate Mathematics Committee Student Journal (UMC), vol. 0, no. 1",
-            "date": "2 May 2026",
+            "venue": "University of California, Irvine Undergraduate Mathematics Committee Student Journal (UMC)",
+            "vol": "0",
+            "no": "1",
+            "date": {
+                "day": "2",
+                "month": "5",
+                "year": "2026"
+            },
             "internal": "/files/journal_articles/Notes on Finite-State Discrete-Time Markov Chains.pdf",
             "external": "https://sites.uci.edu/umc/2025-26-journals"
         }

@@ -1,3 +1,5 @@
+const months = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"];
+
 function echo_list(section_id) {
     fetch("/files/" + section_id + "/" + section_id + ".json")
         .then(response => {
@@ -25,9 +27,18 @@ function generate_list(section_id, data) {
         else
             str += " " + item.title + ".";
         if ("venue" in item)
-            str += " <i>" + item.venue + "</i>" + (("date" in item) ? "," : ".");
-        if ("date" in item)
-            str += " " + item.date + ".";
+            str += " <i>" + item.venue + "</i>" + (("date" in item || "vol" in item) ? "," : ".");
+        if ("vol" in item)
+            str += " vol. " + item.vol + (("date" in item || "no" in item) ? "," : ".");
+        if ("no" in item)
+            str += " no. " + item.no + (("date" in item) ? "," : ".");
+        if ("date" in item) {
+            if ("day" in item)
+                str += " " + item.date.day;
+            if ("month" in item)
+                str += " " + months[item.date.month-1];
+            str += " " + item.date.year + ".";
+        }
         if ("external" in item)
             str += " (<a href=\"" + item.external + "\" target=\"_blank\">external</a>)";
         str += "</li>";
