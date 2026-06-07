@@ -25,7 +25,7 @@ function generate_list(section_id, data) {
         else
             str += " " + item.title + ".";
         if ("venue" in item)
-            str += " <i>" + item.venue + "</i>" + ("date" in item) ? "," : ".";
+            str += " <i>" + item.venue + "</i>" + (("date" in item) ? "," : ".");
         if ("date" in item)
             str += " " + item.date + ".";
         if ("external" in item)
