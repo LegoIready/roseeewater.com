@@ -1,6 +1,17 @@
+function fetchJSONData(filename) {
+    fetch(filename)
+        .then(response => {
+            if (!response.ok) {
+                throw new Error(`HTTP error! Status: ${response.status}`);
+            }
+            return response.json();  
+        })
+        .catch(error => console.error('Failed to fetch data:', error)); 
+}
+
 function echo_list(section_id) {
     str = "<ul>"
-    import data from filename + ".json";
+    data = fetchJSONData("/files/" + section_id + "/" + section_id + ".json")[section_id];
     for (const item of data) {
         str += "<li>";
         authors = item.authors;
