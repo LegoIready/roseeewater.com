@@ -14,11 +14,12 @@
     </head>
 
     <body>
-        <script src="/scripts/script.js">
-            sites = {
+        <script>
+            const sites = {
                 <?php foreach ($sites as $name=>$site) echo "$name: \"$site\","; ?>
             };
         </script>
+        <script src="/scripts/script.js"></script>
         <header>
             <h1><a href="/">ROSEEEWATER</a></h1>
             <nav>
