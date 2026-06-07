@@ -33,9 +33,9 @@ function generate_list(section_id, data) {
         if ("no" in item)
             str += " no. " + item.no + (("date" in item) ? "," : ".");
         if ("date" in item) {
-            if ("day" in item)
+            if ("day" in item.date)
                 str += " " + item.date.day;
-            if ("month" in item)
+            if ("month" in item.date)
                 str += " " + months[item.date.month-1];
             str += " " + item.date.year + ".";
         }
