@@ -1,4 +1,5 @@
 const months = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"];
+const myself = "Rose Enos";
 
 function echo_list(section_id) {
     fetch("/files/" + section_id + "/" + section_id + ".json")
@@ -17,7 +18,11 @@ function generate_list(section_id, data) {
     for (const item of data[section_id]) {
         str += "<li>";
         authors = item.authors;
-        authors[authors.indexOf("Rose Enos")] = "<u>Rose Enos</u>";
+        for (i=0; i<authors.length; ++i)
+            if (authors[i] == myself)
+                authors[i] = `<u>${myself}</u>`;
+            else if (sites.includes(authors[i]))
+                authors[i] = `<a href="${sites[authors[i]]}" target="_blank">${authors[i]}</a>`;
         if (authors.length == 2)
             str += authors.join(" and ") + ".";
         else if (authors.length > 2)
