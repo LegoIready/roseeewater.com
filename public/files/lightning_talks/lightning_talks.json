@@ -1,0 +1,31 @@
+{
+    "lightning_talks": [
+        {
+            "authors": [
+                "Rose Enos"
+            ],
+            "title": "Writing Better Papers: Research as Protagonistic Literature",
+            "venue": "19th Consortium for Computing Sciences in Colleges Southwest Region Conference (CCSC-SW)",
+            "date": {
+                "day": "27–28",
+                "month": "3",
+                "year": "2026"
+            },
+            "internal": "/files/lightning_talks/Writing Better Papers: Research as Protagonistic Literature.pdf"
+        },
+        {
+            "authors": [
+                "Rose Enos",
+                "Julia Nguyen"
+            ],
+            "title": "Economic, Social, and Cultural Factors in Student Experiences in Upper-Division and Graduate Computer Science Programs",
+            "venue": "19th Consortium for Computing Sciences in Colleges Southwest Region Conference (CCSC-SW)",
+            "date": {
+                "day": "27–28",
+                "month": "3",
+                "year": "2026"
+            },
+            "internal": "/files/lightning_talks/Economic, Social, and Cultural Factors in Student Experiences in Upper-Division and Graduate Computer Science Programs.pdf"
+        }
+    ]
+}

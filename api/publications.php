@@ -13,24 +13,14 @@ include('header.php');
     <p>Posters:</p>
     <script> echo_list("posters"); </script>
 </section>
-<p>Lightning talks:</p>
-<ul>
-    <li><?php mention('/files/lightning_talks/Writing Better Papers: Research as Protagonistic Literature.pdf','Writing Better Papers: Research as Protagonistic Literature'); ?>. 19th Consortium for Computing Sciences in Colleges Southwest Region Conference (CCSC-SW), 27–28 March 2026.</li>
-    <li><u>Rose Enos</u> and <?php mention($sites['julia'],'Julia Nguyen'); ?>. <?php mention('/files/lightning_talks/Economic, Social, and Cultural Factors in Student Experiences in Upper-Division and Graduate Computer Science Programs.pdf','Economic, Social, and Cultural Factors in Student Experiences in Upper-Division and Graduate Computer Science Programs'); ?>. 19th Consortium for Computing Sciences in Colleges Southwest Region Conference (CCSC-SW), 27–28 March 2026.</li>
-</ul>
-<p>Coursework:</p>
-<ul>
-    <li><?php mention('https://sites.google.com/uci.edu/the-hip','The Hip'); ?>. 2024.</li>
-    <li><a href="/files/coursework/Going Home: How The Rocky Horror Picture Show Throws Dr. Frank-N-Furter and the Audience into Cyclical Queer Fantasy.pdf" target="_blank">"Going Home: How <i>The Rocky Horror Picture Show</i> throws Dr. Frank-N-Furter and the Audience into Cyclical Queer Fantasy."</a> 2024.</li>
-    <li><a href="/files/coursework/The Alienation of the Human: Personal and Interpersonal Dissociation in Soy Cuba.pdf" target="_blank">"The Alienation of the Human: Personal and Interpersonal Dissociation in <i>Soy Cuba</i>."</a> 2024.</li>
-    <li><a href="/files/coursework/My Eyes Are Up Here: Insistent Subjectification in Carrie Mae Weems’s A Veiled Woman.pdf" target="_blank">"My Eyes Are Up Here: Insistent Subjectification in Carrie Mae Weems's <i>A Veiled Woman</i>."</a> 2024.
-        <ul>
-            <li>Nominee, Nora Folkenflik Memorial Essay Award</li>
-        </ul>
-    </li>
-    <li><a href="/files/coursework/Love Thy Neighbor: Queer Acceptance in The Decameron.pdf" target="_blank">"Love Thy Neighbor: Queer Acceptance in <i>The Decameron</i>."</a> 2023.</li>
-    <li><a href="/files/coursework/The Illegitimate Axioms of Plato’s Republic.pdf" target="_blank">"The Illegitimate Axioms of Plato's <i>Republic</i>."</a> 2023.</li>
-</ul>
+<section id="lighting_talks">
+    <p>Lightning talks:</p>
+    <script> echo_list("lightning_talks"); </script>
+</section>
+<section id="coursework">
+    <p>Coursework:</p>
+    <script> echo_list("coursework"); </script>
+</section>
 <h2>Periodical</h2>
 <p>I was a writer for the UCI chapter of Her Campus for two years:</p>
 <ul>

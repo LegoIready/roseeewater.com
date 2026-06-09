@@ -1,0 +1,67 @@
+{
+    "coursework": [
+        {
+            "authors": [
+                "Rose Enos"
+            ],
+            "title": "The Hip",
+            "date": {
+                "year": "2024"
+            },
+            "external": "https://sites.google.com/uci.edu/the-hip"
+        },
+        {
+            "authors": [
+                "Rose Enos"
+            ],
+            "title": "Going Home: How <i>The Rocky Horror Picture Show</i> throws Dr. Frank-N-Furter and the Audience into Cyclical Queer Fantasy",
+            "date": {
+                "year": "2024"
+            },
+            "internal": "/files/coursework/Going Home: How The Rocky Horror Picture Show Throws Dr. Frank-N-Furter and the Audience into Cyclical Queer Fantasy.pdf"
+        },
+        {
+            "authors": [
+                "Rose Enos"
+            ],
+            "title": "The Alienation of the Human: Personal and Interpersonal Dissociation in <i>Soy Cuba</i>",
+            "date": {
+                "year": "2024"
+            },
+            "internal": "/files/coursework/The Alienation of the Human: Personal and Interpersonal Dissociation in Soy Cuba.pdf"
+        },
+        {
+            "authors": [
+                "Rose Enos"
+            ],
+            "title": "My Eyes Are Up Here: Insistent Subjectification in Carrie Mae Weems's <i>A Veiled Woman</i>",
+            "date": {
+                "year": "2024"
+            },
+            "internal": "/files/coursework/My Eyes Are Up Here: Insistent Subjectification in Carrie Mae Weems’s A Veiled Woman.pdf",
+            "comments": [
+                "Nominee, Nora Folkenflik Memorial Essay Award"
+            ]
+        },
+        {
+            "authors": [
+                "Rose Enos"
+            ],
+            "title": "Love Thy Neighbor: Queer Acceptance in <i>The Decameron</i>",
+            "date": {
+                "year": "2023"
+            },
+            "internal": "/files/coursework/Love Thy Neighbor: Queer Acceptance in The Decameron.pdf"
+        },
+        {
+            "authors": [
+                "Rose Enos"
+            ],
+            "title": "The Illegitimate Axioms of Plato's <i>Republic</i>",
+            "date": {
+                "year": "2023"
+            },
+            "internal": "/files/coursework/The Illegitimate Axioms of Plato’s Republic.pdf"
+        }
+    ]
+}
