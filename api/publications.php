@@ -13,7 +13,7 @@ include('header.php');
     <p>Posters:</p>
     <script> echo_list("posters"); </script>
 </section>
-<section id="lighting_talks">
+<section id="lightning_talks">
     <p>Lightning talks:</p>
     <script> echo_list("lightning_talks"); </script>
 </section>
