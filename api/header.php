@@ -18,7 +18,7 @@
         <meta name="og:type" content="website">
         <meta name="og:image" content="/images/rocky.ico">
         <meta name="og:image:alt" content="The face of Rocky the black cat">
-        <meta name="og:url" content="https://www.roseeewater.com<?php echo $_SERVER['REQUEST_URI']; ?>">
+        <meta name="og:url" content="https://www.roseeewater.com<?php echo ($_SERVER['REQUEST_URI'] === '/') ? '' : $_SERVER['REQUEST_URI']; ?>">
         <?php echo (isset($description) ? "<meta name=\"og:description\" content=\"$description\">" : ''); ?>
         <meta name="og:site_name" content="Roseeewater">
         </head>
