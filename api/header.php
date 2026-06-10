@@ -6,13 +6,22 @@
         <title>
             <?php echo ($title === 'Home' ? '' : "$title - "); ?>Roseeewater
         </title>
+        <meta name="title" content="<?php echo ($title === 'Home' ? '' : "$title - "); ?>Roseeewater">
+        <?php echo (isset($description) ? "<meta name=\"description\" content=\"$description\">" : ''); ?>
         <link rel="icon" type="image/x-icon" href="/images/rocky.ico">
         <meta charset="utf-8">
         <link rel="stylesheet" type="text/css" href="/styles/styles.css">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+        <!-- OpenGraph tags -->
+        <meta name="og:title" content="<?php echo ($title === 'Home' ? '' : "$title - "); ?>Roseeewater">
+        <meta name="og:type" content="website">
         <meta name="og:image" content="/images/rocky.ico">
-        <?php echo (isset($description) ? "<meta name=\"description\" content=\"$description\">" : ''); ?>
-    </head>
+        <meta name="og:image:alt" content="The face of Rocky the black cat">
+        <meta name="og:url" content="https://www.roseeewater.com<?php echo $_SERVER[REQUEST_URI]; ?>">
+        <?php echo (isset($description) ? "<meta name=\"og:description\" content=\"$description\">" : ''); ?>
+        <meta name="og:site_name" content="Roseeewater">
+        </head>
 
     <body>
         <script>
