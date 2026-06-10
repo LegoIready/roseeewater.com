@@ -14,7 +14,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
         <!-- OpenGraph tags -->
-        <meta name="og:title" content="<?php echo ($title === 'Home' ? '' : "$title - "); ?>Roseeewater">
+        <meta name="og:title" content="<?php echo $title; ?>">
         <meta name="og:type" content="website">
         <meta name="og:image" content="/images/rocky.ico">
         <meta name="og:image:alt" content="The face of Rocky the black cat">
