@@ -10,8 +10,10 @@ include('header.php');
 <p>I like watching reality TV and K-dramas with <?php mention($sites["tien"],"my girlfriend"); ?>, and I make mostly <?php mention("https://www.youtube.com/@roseeewater","let's-play videos"); ?>, also <?php mention("https://www.youtube.com/@tea-roses","with my girlfriend"); ?>. Some of my favorite film/TV works are <i>Everything, Everywhere, All at Once</i>, <i>I Saw the TV Glow</i>, <i>Star Wars</i>, <i>Single's Inferno</i>, and <?php mention("https://www.youtube.com/watch?v=RTRT794IQBg","<i>The Hunger</i>"); ?>.</p>
 <p>I listen to The Beatles and TWICE, among other artists. I <?php mention("https://musescore.com/user/31948198","compose"); ?> for my own games and sometimes transcribe songs I like.</p>
 <h2>Teaching</h2>
-<p>For Spring 2026, I am a learning assistant for COMPSCI 162: Formal Languages and Automata. My office hours are 3–4pm on Monday in ICS 458C, with <?php mention($sites["julia"],"Julia Nguyen"); ?>.</p>
+<p>For Summer 2026, I am a program assistant for the ICS Summer Academy. Students may contact me ONLY through email (<a href="mailto:enosb@uci.edu">enosb@uci.edu</a>) and MUST cc a faculty or supervisor.</p>
+<!--
 <p>For the 2025–2026 school year, I am a drop-in tutor at the ICS Tutoring Center. For Spring 2026, I work from 3–5pm on Tuesday in ICS2 110. I support ICS 6B, 6D, 31, 32, H32, 33, 45C, 46, IN4MATX 43, and STATS 67.</p>
+-->
 <?php
 include("footer.php");
 ?>
