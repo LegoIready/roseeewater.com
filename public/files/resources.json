@@ -1,0 +1,34 @@
+{
+    "resources": [
+        {
+            "title": "Notes On The PhD Degree",
+            "authors": ["Doug Comer"],
+            "internal": "https://www.cs.virginia.edu/%7Ejwd/comer-phd.htm"
+        },
+        {
+            "title": "Prospective Students",
+            "authors": ["Michael Franz"],
+            "internal": "https://www.michaelfranz.com/prospective-students"
+        },
+        {
+            "title": "For Prospective PhD Students",
+            "authors": ["Krzysztof Gajos"],
+            "internal": "https://kgajos.seas.harvard.edu/join-our-group/for-prospective-phd-students/"
+        },
+        {
+            "title": "Computing Education Research FAQ",
+            "authors": ["Amy J. Ko"],
+            "internal": "https://faculty.washington.edu/ajko/cer"
+        },
+        {
+            "title": "teenblogcs",
+            "authors": ["Shivang Patel"],
+            "internal": "https://github.com/Ardrey-Kell-Computer-Science-Club/teenblogcs"
+        },
+        {
+            "title": "Brag Sheets",
+            "authors": ["UCI School of Social Ecology"],
+            "internal": "https://fieldstudy.soceco.uci.edu/pages/brag-sheets"
+        }
+    ]
+}
