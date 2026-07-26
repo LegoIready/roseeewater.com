@@ -17,6 +17,10 @@
         {
             "source": "/public/:path*",
             "destination": "/:path*"
+        },
+        {
+            "source": "/notes",
+            "destination": "/resources"
         }
     ]
 }
