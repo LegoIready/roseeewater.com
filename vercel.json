@@ -22,7 +22,7 @@
     "redirects": [
         {
             "source": "/notes",
-            "destination": "/api/resources",
+            "destination": "/resources",
             "permanent": true
         }
     ]
