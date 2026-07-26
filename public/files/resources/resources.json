@@ -1,33 +1,33 @@
 {
     "resources": [
         {
-            "title": "Notes On The PhD Degree",
             "authors": ["Doug Comer"],
+            "title": "Notes On The PhD Degree",
             "internal": "https://www.cs.virginia.edu/%7Ejwd/comer-phd.htm"
         },
         {
-            "title": "Prospective Students",
             "authors": ["Michael Franz"],
+            "title": "Prospective Students",
             "internal": "https://www.michaelfranz.com/prospective-students"
         },
         {
-            "title": "For Prospective PhD Students",
             "authors": ["Krzysztof Gajos"],
+            "title": "For Prospective PhD Students",
             "internal": "https://kgajos.seas.harvard.edu/join-our-group/for-prospective-phd-students/"
         },
         {
-            "title": "Computing Education Research FAQ",
             "authors": ["Amy J. Ko"],
+            "title": "Computing Education Research FAQ",
             "internal": "https://faculty.washington.edu/ajko/cer"
         },
         {
-            "title": "teenblogcs",
             "authors": ["Shivang Patel"],
+            "title": "teenblogcs",
             "internal": "https://github.com/Ardrey-Kell-Computer-Science-Club/teenblogcs"
         },
         {
-            "title": "Brag Sheets",
             "authors": ["UCI School of Social Ecology"],
+            "title": "Brag Sheets",
             "internal": "https://fieldstudy.soceco.uci.edu/pages/brag-sheets"
         }
     ]
