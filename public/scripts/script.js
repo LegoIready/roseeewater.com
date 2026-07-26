@@ -24,7 +24,9 @@ function generate_list(section_id, data) {
             else if (authors[i] in sites)
                 // problem: these keys are "firstname"
                 authors[i] = `<a href="${sites[authors[i]]}" target="_blank">${authors[i]}</a>`;
-        if (authors.length == 2)
+        if (authors.length == 1)
+            str += authors[0] + ".";
+        else if (authors.length == 2)
             str += authors.join(" and ") + ".";
         else if (authors.length > 2)
             str += authors.slice(0,-1).join(", ") + ", and " + authors[-1] + ".";
