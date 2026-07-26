@@ -17,10 +17,13 @@
         {
             "source": "/public/:path*",
             "destination": "/:path*"
-        },
+        }
+    ],
+    "redirects": [
         {
             "source": "/notes",
-            "destination": "/resources"
+            "destination": "/api/resources",
+            "permanent": true
         }
     ]
 }
