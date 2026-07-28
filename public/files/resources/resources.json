@@ -29,6 +29,11 @@
             "authors": ["UCI School of Social Ecology"],
             "title": "Brag Sheets",
             "internal": "https://fieldstudy.soceco.uci.edu/pages/brag-sheets"
+        },
+        {
+            "authors": ["UCI Department of Computer Science"],
+            "title": "My CS Ph.D.",
+            "internal": "https://mycsphd.org/"
         }
     ]
 }
