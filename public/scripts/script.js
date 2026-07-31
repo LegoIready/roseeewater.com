@@ -1,8 +1,8 @@
 const months = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"];
 const myself = "Rose Enos";
 
-function echo_list(section_id) {
-    fetch("/files/" + section_id + "/" + section_id + ".json")
+function echo_list(section_id, folder=section_id) {
+    fetch("/files/" + folder + "/" + section_id + ".json")
         .then(response => {
             if (!response.ok) {
                 throw new Error(`HTTP error! Status: ${response.status}`);
