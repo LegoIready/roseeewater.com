@@ -24,16 +24,21 @@ function generate_list(section_id, data) {
             else if (authors[i] in sites)
                 // problem: these keys are "firstname"
                 authors[i] = `<a href="${sites[authors[i]]}" target="_blank">${authors[i]}</a>`;
-        if (authors.length == 1)
-            str += authors[0] + ".";
-        else if (authors.length == 2)
-            str += authors.join(" and ") + ".";
-        else if (authors.length > 2)
-            str += authors.slice(0,-1).join(", ") + ", and " + authors[-1] + ".";
+        if ("author" in item) {
+            if (authors.length == 1)
+                str += authors[0] + ".";
+            else if (authors.length == 2)
+                str += authors.join(" and ") + ".";
+            else if (authors.length > 2)
+                str += authors.slice(0,-1).join(", ") + ", and " + authors[-1] + ".";
+            str += " ";
+        }
         if ("internal" in item)
-            str += " <a href=\"" + item.internal + "\" target=\"_blank\">" + item.title + "</a>.";
+            str += "<a href=\"" + item.internal + "\" target=\"_blank\">" + item.title + "</a>";
         else
-            str += " " + item.title + ".";
+            str += item.title;
+        if (!(item.title[-1] in ['.','?','!']))
+            str += ".";
         if ("venue" in item)
             str += " <i>" + item.venue + "</i>" + (("date" in item || "vol" in item) ? "," : ".");
         if ("vol" in item)
