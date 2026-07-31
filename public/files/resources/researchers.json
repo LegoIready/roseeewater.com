@@ -1,0 +1,25 @@
+{
+    "acknowledgments": [
+        "This list directly extends that by Amy J. Ko and collaborators at https://faculty.washington.edu/ajko/cer."
+    ],
+    "researchers": [
+        {
+            "title": "Lauren Bricker",
+            "internal": "https://homes.cs.washington.edu/~bricker/#/home",
+            "comments": [
+                "Paul G. Allen School of Computer Science and Engineering, University of Washington",
+                "Designing and implementing holistic programs for increasing equitable participation in computing education.",
+                "Not advising"
+            ]
+        },
+        {
+            "title": "Amy J. Ko",
+            "internal": "https://faculty.washington.edu/ajko/",
+            "comments": [
+                "The Information School, University of Washington",
+                "Equitable, joyous, liberatory learning about computing and information.",
+                "Recruiting"
+            ]
+        }
+    ]
+}
