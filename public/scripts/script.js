@@ -17,14 +17,14 @@ function generate_list(section_id, data) {
     str = "<ul>"
     for (const item of data[section_id]) {
         str += "<li>";
-        authors = item.authors;
-        for (i=0; i<authors.length; ++i)
+        if ("author" in item) {
+            authors = item.authors;
+            for (i=0; i<authors.length; ++i)
             if (authors[i] == myself)
                 authors[i] = `<u>${myself}</u>`;
             else if (authors[i] in sites)
                 // problem: these keys are "firstname"
                 authors[i] = `<a href="${sites[authors[i]]}" target="_blank">${authors[i]}</a>`;
-        if ("author" in item) {
             if (authors.length == 1)
                 str += authors[0] + ".";
             else if (authors.length == 2)
