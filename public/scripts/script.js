@@ -17,7 +17,7 @@ function generate_list(section_id, data) {
     str = "<ul>"
     for (const item of data[section_id]) {
         str += "<li>";
-        if ("author" in item) {
+        if ("authors" in item) {
             authors = item.authors;
             for (i=0; i<authors.length; ++i)
             if (authors[i] == myself)
