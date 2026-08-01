@@ -6,19 +6,19 @@
         {
             "title": "Lauren Bricker",
             "internal": "https://homes.cs.washington.edu/~bricker/#/home",
+            "venue": "Not advising",
             "comments": [
-                "Paul G. Allen School of Computer Science and Engineering, University of Washington",
-                "Designing and implementing holistic programs for increasing equitable participation in computing education.",
-                "Not advising"
+                "Paul G. Allen School of Computer Science and Engineering, University of Washington.",
+                "Designing and implementing holistic programs for increasing equitable participation in computing education."
             ]
         },
         {
             "title": "Amy J. Ko",
             "internal": "https://faculty.washington.edu/ajko/",
+            "venue": "Recruiting",
             "comments": [
-                "The Information School, University of Washington",
-                "Equitable, joyous, liberatory learning about computing and information.",
-                "Recruiting"
+                "The Information School, University of Washington.",
+                "Equitable, joyous, liberatory learning about computing and information."
             ]
         }
     ]
