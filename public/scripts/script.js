@@ -37,7 +37,7 @@ function generate_list(section_id, data) {
             str += "<a href=\"" + item.internal + "\" target=\"_blank\">" + item.title + "</a>";
         else
             str += item.title;
-        if (!['.','?','!'].includes(item.title[-1]))
+        if (!['.','?','!'].includes(item.title[item.title.length-1]))
             str += ".";
         if ("venue" in item)
             str += " <i>" + item.venue + "</i>" + (("date" in item || "vol" in item) ? "," : ".");
