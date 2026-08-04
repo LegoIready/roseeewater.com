@@ -9,6 +9,10 @@ include('header.php');
 <p><i>Rose Enos and Julia Nguyen, Nero Li, Sandra Batista, Stephen Sher, Michael Shindler.</i></p>
 <h3>Active learning in large CS theory courses (Active Learning)</h3>
 <p><i>Nero Li, Rose Enos, Shion Fukuzawa, David Joves, Julia Nguyen, Sandra Batista, Michael Shindler.</i></p>
+<h2>Collaborators</h2>
+<h3>Julia Nguyen</h3>
+<p><i>Undergraduate, University of California, Irvine</i></p>
+<p>Despite being close friends, Julia and I manage to also get research work done!</p>
 <?php
 include("footer.php");
 ?>
