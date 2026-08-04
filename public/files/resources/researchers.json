@@ -38,6 +38,15 @@
                 "Donald Bren School of Information and Computer Sciences, University of California, Irvine.",
                 "Teaching and designing large computing theory courses."
             ]
+        },
+        {
+            "title": "Kristin Stephens-Martinez",
+            "internal": "https://users.cs.duke.edu/~ksm/",
+            "venue": "Advising",
+            "comments": [
+                "Trinity College of Arts and Sciences, Duke University.",
+                "Scaling classroom support for teachers and students."
+            ]
         }
     ]
 }
