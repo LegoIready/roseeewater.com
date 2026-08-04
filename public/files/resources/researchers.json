@@ -13,12 +13,30 @@
             ]
         },
         {
+            "title": "Allan Knight",
+            "internal": "https://profiles.ucr.edu/app/home/profile/aknig007",
+            "venue": "Advising",
+            "comments": [
+                "Marlan and Rosemary Bourns College of Engineering, University of California, Riverside.",
+                "Educational technology and evaluation of educational media."
+            ]
+        },
+        {
             "title": "Amy J. Ko",
             "internal": "https://faculty.washington.edu/ajko/",
             "venue": "Recruiting",
             "comments": [
                 "The Information School, University of Washington.",
                 "Equitable, joyous, liberatory learning about computing and information."
+            ]
+        },
+        {
+            "title": "Michael Shindler",
+            "internal": "https://ics.uci.edu/~mikes/",
+            "venue": "Not recruiting",
+            "comments": [
+                "Donald Bren School of Information and Computer Sciences, University of California, Irvine.",
+                "Teaching and designing large computing theory courses."
             ]
         }
     ]
