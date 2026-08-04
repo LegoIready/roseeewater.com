@@ -33,7 +33,7 @@
         <header>
             <h1><a href="/">ROSEEEWATER</a></h1>
             <nav>
-                <a href="/">Home</a><a href="/education">Education</a><a href="/work">Work</a><a href="/publications">Publications</a><a href="/projects">Projects</a><a href="/resources">Resources</a>
+                <a href="/">Home</a><a href="/education">Education</a><a href="/work">Work</a><a href="/research">Research</a><a href="/publications">Publications</a><a href="/resources">Resources</a>
             </nav>
         </header>
         <article>

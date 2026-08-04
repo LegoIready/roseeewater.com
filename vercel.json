@@ -24,6 +24,11 @@
             "source": "/notes",
             "destination": "/resources",
             "permanent": true
+        },
+        {
+            "source": "/projects",
+            "destination": "/publications",
+            "permanent": true
         }
     ]
 }
