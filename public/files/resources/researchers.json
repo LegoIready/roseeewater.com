@@ -4,12 +4,48 @@
     ],
     "researchers": [
         {
+            "title": "Austin Cory Bart",
+            "internal": "https://acbart.github.io/",
+            "venue": "Advising",
+            "comments": [
+                "College of Engineering, University of Delaware.",
+                "Programming education technology, equitable computing curricula, learning sciences."
+            ]
+        },
+        {
+            "title": "Marc Berges",
+            "internal": "https://www.ddi.tf.fau.de/professur/personen/leitung/berges/",
+            "venue": "?",
+            "comments": [
+                "?, Friedrich-Alexander-Universität Erlangen-Nürnberg.",
+                "Integration of AI into computing education and adaptive curricula."
+            ]
+        },
+        {
+            "title": "Matthew Berland",
+            "internal": "https://berland.org/",
+            "venue": "Advising",
+            "comments": [
+                "Department of Curriculum and Instruction, University of Wisconsin–Madison.",
+                "Data mining and mixed methods on creative, complex computing education."
+            ]
+        },
+        {
             "title": "Lauren Bricker",
             "internal": "https://homes.cs.washington.edu/~bricker/#/home",
             "venue": "Not advising",
             "comments": [
                 "Paul G. Allen School of Computer Science and Engineering, University of Washington.",
                 "Designing and implementing holistic programs for increasing equitable participation in computing education."
+            ]
+        },
+        {
+            "title": "Sayamindu Dasgupta",
+            "internal": "https://unmad.in/",
+            "venue": "Recruiting",
+            "comments": [
+                "College of Engineering, University of Washington.",
+                "Equitable youth data literacy and programming education."
             ]
         },
         {
@@ -26,8 +62,17 @@
             "internal": "https://faculty.washington.edu/ajko/",
             "venue": "Recruiting",
             "comments": [
-                "The Information School, University of Washington.",
+                "Information School, University of Washington.",
                 "Equitable, joyous, liberatory learning about computing and information."
+            ]
+        },
+        {
+            "title": "R. Benjamin Shapiro",
+            "internal": "https://benshapi.ro/",
+            "venue": "Recruiting",
+            "comments": [
+                "Paul G. Allen School of Computer Science and Engineering, University of Washington.",
+                "Youth computing education, AI education, education technology."
             ]
         },
         {
