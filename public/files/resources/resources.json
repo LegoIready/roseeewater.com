@@ -1,6 +1,11 @@
 {
     "resources": [
         {
+            "authors": ["American Ornithological Society"],
+            "title": "How to Send a Graduate School Inquiry Email",
+            "internal": "https://americanornithology.org/how-to-send-a-graduate-school-inquiry-email/"
+        },
+        {
             "authors": ["Doug Comer"],
             "title": "Notes On The PhD Degree",
             "internal": "https://www.cs.virginia.edu/%7Ejwd/comer-phd.htm"
