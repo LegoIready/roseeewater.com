@@ -40,12 +40,48 @@
             ]
         },
         {
+            "title": "Jeannette Anastasia Colyvas",
+            "internal": "https://sites.northwestern.edu/jeannettecolyvassesp/",
+            "venue": "Recruiting",
+            "comments": [
+                "School of Education and Social Policy, Northwestern University.",
+                "Science education policy."
+            ]
+        },
+        {
             "title": "Sayamindu Dasgupta",
             "internal": "https://unmad.in/",
             "venue": "Recruiting",
             "comments": [
                 "College of Engineering, University of Washington.",
                 "Equitable youth data literacy and programming education."
+            ]
+        },
+        {
+            "title": "Matthew Easterday",
+            "internal": "https://sesp.northwestern.edu/people/faculty/matthew-easterday.html",
+            "venue": "Recruiting",
+            "comments": [
+                "School of Education and Social Policy, Northwestern University.",
+                "Civics education technology."
+            ]
+        },
+        {
+            "title": "Kenneth D. Forbus",
+            "internal": "https://users.cs.northwestern.edu/~forbus/",
+            "venue": "Recruiting",
+            "comments": [
+                "Department of Computer Science, Northwestern University.",
+                "AI and cognitive science in education technology."
+            ]
+        },
+        {
+            "title": "Michael Horn",
+            "internal": "https://tidal.northwestern.edu/people/mikehorn/",
+            "venue": "Recruiting",
+            "comments": [
+                "Department of Computer Science, Northwestern University.",
+                "Technology in learning experiences, especially of computational literacy."
             ]
         },
         {
@@ -64,6 +100,15 @@
             "comments": [
                 "Information School, University of Washington.",
                 "Equitable, joyous, liberatory learning about computing and information."
+            ]
+        },
+        {
+            "title": "Nicole Denise Pinkard",
+            "internal": "https://sites.northwestern.edu/nicholepinkard/",
+            "venue": "Recruiting",
+            "comments": [
+                "School of Education and Social Policy, Northwestern University.",
+                "Community youth education through social networks."
             ]
         },
         {
