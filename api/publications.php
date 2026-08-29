@@ -37,6 +37,11 @@ include('header.php');
 <ul>
     <li>Evien Cheng, <a href="https://sites.uci.edu/morningsignout/2024/05/29/developments-with-machine-learning-in-drug-discovery" target="_blank">"Developments with Machine Learning in Drug Discovery."</a> Edited by <u>Rose Enos</u>, 2024.</li>
 </ul>
+<h2>Poetry</h2>
+<section id="poetry">
+    <p>I write poetry with <?php mention($sites['tien'],'my girlfriend'); ?> and with the Tuesday Night Poetry Workshop at the Sacramento Poetry Center.</p>
+    <script> echo_list("poetry"); </script>
+</section>
 <h2>Nonfiction</h2>
 <p>I wrote a brief history of a mobile game called Mafia Mystery:</p>
 <ul>

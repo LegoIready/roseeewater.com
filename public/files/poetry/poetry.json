@@ -1,0 +1,16 @@
+{
+    "poetry": [
+        {
+            "authors": ["Rose Enos"],
+            "title": "Dear Sophie Foster",
+            "date": {"year": 2019},
+            "external": "https://archiveofourown.org/works/91099121"
+        },
+        {
+            "authors": ["Rose Enos"],
+            "title": "LEGO",
+            "venue": "Young American Poetry Digest",
+            "date": {"year": "2014"}
+        }
+    ]
+}
