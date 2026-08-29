@@ -12,7 +12,7 @@ include('header.php');
 <h2>Collaborators</h2>
 <h3>Julia Nguyen</h3>
 <p><i>Undergraduate, University of California, Irvine</i></p>
-<p>Despite being close friends, Julia and I manage to also get research work done!</p>
+<p>Despite being close friends, Julia and I manage to also get research work done! We are in the same cohort of the computer science degree, and she was the person who got me interested in research in the first place.</p>
 <?php
 include("footer.php");
 ?>
