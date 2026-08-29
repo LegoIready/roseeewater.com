@@ -29,6 +29,11 @@
             "source": "/projects",
             "destination": "/publications",
             "permanent": true
+        },
+        {
+            "source": "/work",
+            "destination": "/",
+            "permanent": true
         }
     ]
 }
