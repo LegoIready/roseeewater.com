@@ -18,8 +18,18 @@ include('header.php');
 <!--
 <p>For the 2025–2026 school year, I am a drop-in tutor at the ICS Tutoring Center. For Spring 2026, I work from 3–5pm on Tuesday in ICS2 110. I support ICS 6B, 6D, 31, 32, H32, 33, 45C, 46, IN4MATX 43, and STATS 67.</p>
 -->
+<h2>In The Media</h2>
+<!--<section id="media">
+    <script> echo_list('media'); </script>
+</section>-->
+<ul>
+    <li>[PICTURED] 2026. <?php mention('https://ics.uci.edu/2026/08/12/ics-summer-academy-continues-to-expand-with-new-courses-on-intelligent-robotics-and-game-design/','ICS Summer Academy Continues to Expand with New Courses on Intelligent Robotics and Game Design.'); ?></li>
+    <li>[PICTURED] 2026. <?php mention('https://phibetakappa.uci.edu/events/induction-ceremony/','2025–26 UC Irvine PBK Induction Ceremony.'); ?></li>
+    <!--<li>[INTERVIEWED] 2023. West Campus High School Yearbook.</li>
+    <li>[MENTIONED] 2018. Sutter Middle School Magazine.</li>-->
+</ul>
 <h2>Contact</h2>
-<p>Feel free to contact me by email for any reason!</p>
+<p>Feel free to contact me by email for any reason! I am happy to respond.</p>
 <?php
 include("footer.php");
 ?>
