@@ -33,7 +33,7 @@
         <header>
             <h1><a href="/">ROSEEEWATER</a></h1>
             <nav>
-                <a href="/">Home</a><a href="/education">Education</a><a href="/research">Research</a><a href="/publications">Publications</a><a href="/resources">Resources</a>
+                <a href="/">Home</a><a href="/education">Education</a><a href="/research">Research</a><a href="/publications">Publications</a><a href="/resources">Resources</a><a href="https://roseeewater.dreamwidth.org" target="_blank">Blog</a>
             </nav>
         </header>
         <article>
