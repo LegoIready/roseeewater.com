@@ -96,6 +96,16 @@ include('header.php');
     <li><a href="https://github.com/LegoIready/tteokbokki" target="_blank">Tteokbokki.</a> 2026.</li>
     <li><a href="https://github.com/LegoIready/catbot" target="_blank">CatBot.</a> 2020.</li>
 </ul>
+<h2>In The Media</h2>
+<!--<section id="media">
+    <script> echo_list('media'); </script>
+</section>-->
+<ul>
+    <li>[PICTURED] 2026. <?php mention('https://ics.uci.edu/2026/08/12/ics-summer-academy-continues-to-expand-with-new-courses-on-intelligent-robotics-and-game-design/','ICS Summer Academy Continues to Expand with New Courses on Intelligent Robotics and Game Design.'); ?></li>
+    <li>[PICTURED] 2026. <?php mention('https://phibetakappa.uci.edu/events/induction-ceremony/','2025–26 UC Irvine PBK Induction Ceremony.'); ?></li>
+    <!--<li>[INTERVIEWED] 2023. West Campus High School Yearbook.</li>
+    <li>[MENTIONED] 2018. Sutter Middle School Magazine.</li>-->
+</ul>
 <?php
 include("footer.php");
 ?>
