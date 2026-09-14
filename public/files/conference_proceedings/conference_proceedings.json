@@ -1,0 +1,22 @@
+{
+    "conference_proceedings": [
+        {
+            "authors": [
+                "Nero Li",
+                "Rose Enos",
+                "Shion Fukuzawa",
+                "David Joves",
+                "Julia Nguyen",
+                "Sandra Batista",
+                "Michael Shindler"
+            ],
+            "title": "A Case Study of Active Learning in Large Algorithms Classes",
+            "venue": "58th Association for Computing Machinery Technical Symposium on Computer Science Education (SIGCSE)",
+            "date": {
+                "day": "17–20",
+                "month": "2",
+                "year": "2027"
+            }
+        }
+    ]
+}

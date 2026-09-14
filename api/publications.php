@@ -4,11 +4,11 @@ include('header.php');
 ?>
 <h1>Publications</h1>
 <h2>Research</h2>
-<p>I am contributing to three in-progress papers as part of my work with <?php mention($sites['michael'],'Professor Michael Shindler'); ?> on computer science education.</p>
-<!--<section id="conference_proceedings">
+<p>I am contributing to two in-progress papers as part of my work with <?php mention($sites['michael'],'Professor Michael Shindler'); ?> on computer science education.</p>
+<section id="conference_proceedings">
     <p>Conference proceedings:</p>
     <script> echo_list("conference_proceedings"); </script>
-</section>-->
+</section>
 <section id="posters">
     <p>Posters:</p>
     <script> echo_list("posters"); </script>
