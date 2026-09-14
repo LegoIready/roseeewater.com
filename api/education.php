@@ -5,8 +5,9 @@ include("header.php");
 <h1>Education</h1>
 <p>I graduated as valedictorian from West Campus High School in Sacramento. I'm currently pursuing the following degrees at the <b>University of California, Irvine (UCI)</b>:</p>
 <ul>
-    <li><b>B.S., Pure Mathematics</b>, School of Physical Sciences
+    <li><b>B.S., Mathematics</b>, School of Physical Sciences
         <ul>
+            <li>Specialization: Pure Mathematics</li>
             <li>Honors Program in Mathematics</li>
             <li>Thesis: TBD</li>
         </ul>
@@ -14,7 +15,7 @@ include("header.php");
     <li><b>B.S., Computer Science</b>, Donald Bren School of Information and Computer Sciences
         <ul>
             <li>Specialization: Intelligent Systems</li>
-            <li>Information and Computer Sciences Honors Program (planned)</li>
+            <li>Information and Computer Sciences Honors Program</li>
             <li>Thesis: TBD</li>
         </ul>
     </li>

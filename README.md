@@ -7,3 +7,4 @@ TODO:
 * Dedicated research page
 * Convert mention keys to "Authorname" format instead of "firstname"
 * Implement translation into Spanish and language picker
+* Dedicated now page
