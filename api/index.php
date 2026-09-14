@@ -14,12 +14,10 @@ include('header.php');
 <p>Last year, I was a tutor at the ICS Tutoring Center, which was a great experience and my first paid job. In the winter, I was again the head learning assistant for discrete math, whose team and students were superb. In the spring, I was a learning assistant for automata theory with several of my friends, which was great fun. Also in spring, Julia and I <a href="/publications">presented at CCSC Southwest and UROP</a>, with a lot more work underway alongside our wonderful team. The crown jewel, in my mind, was my summer job at the ICS Summer Academy with an amazing and competent crowd, and a set of students to whom I am very grateful.</p>
 <p>I've been jumping on graduate applications, hoping that they'll spit out something useful to me, like a nice statement of purpose. No such luck, so I guess I'll have to write it myself. I <i>do</i> have the good fortune of knowing a really wonderful set of recommenders! I am aiming to investigate how to successfully disseminate information to young people about social and technical aspects of computing, and how to develop effective academic mentorship and belonging initiatives in computing higher education; this project will support healthy evolution of computing education in interaction with AI agents and the maintenance of knowledge and skills in the United States computing workforce.</p>
 <p>My hobbies this year have mainly been <a href="/">my website</a> and my writing—fiction writing, that is! I finally moved all my writing over to <?php mention('https://archiveofourown.org/users/Roseeewater','AO3'); ?>, which is nice and FOSSy. Writing will probably slow down once summer's over, but that's life! I've also been writing poetry with my girlfriend and the Sacramento Poetry Center, and have found that really rewarding and fulfilling.</p>
-<!--<h2>Teaching</h2>-->
-<!--
-<p>For the 2025–2026 school year, I am a drop-in tutor at the ICS Tutoring Center. For Spring 2026, I work from 3–5pm on Tuesday in ICS2 110. I support ICS 6B, 6D, 31, 32, H32, 33, 45C, 46, IN4MATX 43, and STATS 67.</p>
--->
+<h2>Teaching</h2>
+<p>For the 2026–2027 school year, I am an academic success mentor at the ICS OAI Center and a drop-in tutor at the ICS Tutoring Center. UCI students are welcome to drop by or make an appointment, especially ICS students and students enrolled in ICS courses. Availability coming soon.</p>
 <h2>Contact</h2>
-<p>Feel free to contact me by email for any reason! I am happy to respond.</p>
+<p>Feel free to contact me by email for any reason! Please send any interesting papers my way, even if we haven't talked before.</p>
 <?php
 include("footer.php");
 ?>
