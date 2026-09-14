@@ -5,10 +5,10 @@ include('header.php');
 <h1>Publications</h1>
 <h2>Research</h2>
 <p>I am contributing to three in-progress papers as part of my work with <?php mention($sites['michael'],'Professor Michael Shindler'); ?> on computer science education.</p>
-<section id="journal_articles">
-    <p>Journal articles:</p>
-    <script> echo_list("journal_articles"); </script>
-</section>
+<!--<section id="conference_proceedings">
+    <p>Conference proceedings:</p>
+    <script> echo_list("conference_proceedings"); </script>
+</section>-->
 <section id="posters">
     <p>Posters:</p>
     <script> echo_list("posters"); </script>
@@ -16,6 +16,10 @@ include('header.php');
 <section id="lightning_talks">
     <p>Lightning talks:</p>
     <script> echo_list("lightning_talks"); </script>
+</section>
+<section id="unrefereed_journal_articles">
+<p>Unrefereed journal articles:</p>
+<script> echo_list("unrefereed_journal_articles"); </script>
 </section>
 <section id="coursework">
     <p>Coursework:</p>
