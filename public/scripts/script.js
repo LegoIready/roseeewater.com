@@ -30,7 +30,7 @@ function generate_list(section_id, data) {
             else if (authors.length == 2)
                 str += authors.join(" and ") + ".";
             else if (authors.length > 2)
-                str += authors.slice(0,-1).join(", ") + ", and " + authors[-1] + ".";
+                str += authors.slice(0,-1).join(", ") + ", and " + authors[authors.length-1] + ".";
             str += " ";
         }
         if ("internal" in item)
