@@ -43,7 +43,7 @@ include('header.php');
 </ul>
 <h2>Poetry</h2>
 <section id="poetry">
-    <p>I write poetry with <?php mention($sites['tien'],'my girlfriend'); ?> and with the Tuesday Night Poetry Workshop at the Sacramento Poetry Center.</p>
+    <p>I write poetry with <?php mention('Tien Nguyen'); ?> and with the Tuesday Night Poetry Workshop at the Sacramento Poetry Center.</p>
     <script> echo_list("poetry"); </script>
 </section>
 <h2>Nonfiction</h2>
