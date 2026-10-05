@@ -16,7 +16,7 @@ if(!function_exists("mention")) {
         'Urja Vaidya' => 'https://urja-vaidya.netlify.app'
     );
     function mention($what, $how = NULL) {
-        echo '<a href="' . (is_null($how) ? $sites[$what] : $what) . '" target="_blank">' . (is_null($how) ? $what : $how) . '</a>';
+        echo '<a href="' . (is_null($how) ? $GLOBALS['sites'][$what] : $what) . '" target="_blank">' . (is_null($how) ? $what : $how) . '</a>';
     }
 }
 ?>
