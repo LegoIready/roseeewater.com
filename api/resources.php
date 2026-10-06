@@ -19,6 +19,15 @@ include('header.php');
     <li><a href="/files/notes/Rose's Programming in Python.pdf" target="_blank">"Rose's Programming in Python."</a> 2024.</li>
     <li><a href="/files/notes/Rose's Programming in C++.pdf" target="_blank">"Rose's Programming in C++."</a> 2024.</li>
 </ul>
+<section id="portfolios">
+    <h2>My Friends' Websites</h2>
+    <p>These are websites from some friends and people I have collaborated with.</p>
+    <ul>
+        <li><?php mention('Aaron Kuang') ?></li>
+        <li><?php mention('Tien Nguyen') ?></li>
+        <li><?php mention('Urja Vaidya') ?></li>
+    </ul>
+</section>
 <section id="resources">
 <h2>External Resources</h2>
 <p>These are some helpful resources written by other people, mostly about computing, computing education, and PhD applications.</p>
