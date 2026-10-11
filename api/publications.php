@@ -69,10 +69,11 @@ include('header.php');
 <h2>Games</h2>
 <p>For game jams or personal projects, I have developed the following games:</p>
 <ul>
-    <li><a href="https://lego-iready.itch.io/buck-life" target="_blank">Buck Life.</a> ZotJam, 2026.</li>
-    <li><u>Rose Enos</u> and <?php mention($sites["julia"],"Julia Nguyen"); ?>. <a href="https://lego-iready.itch.io/uc-cursed-love" target="_blank">UC Cursed Love.</a> ZotJam, 2025.</li>
+    <li><a href="https://lego-iready.itch.io/overlooked" target="_blank">Overlooked.</a> ZotJam Fall, 2026.</li>
+    <li><a href="https://lego-iready.itch.io/buck-life" target="_blank">Buck Life.</a> ZotJam Spring, 2026.</li>
+    <li><u>Rose Enos</u> and <?php mention($sites["julia"],"Julia Nguyen"); ?>. <a href="https://lego-iready.itch.io/uc-cursed-love" target="_blank">UC Cursed Love.</a> ZotJam Fall, 2025.</li>
     <li><u>Rose Enos</u>, <?php mention($sites["julia"],"Julia Nguyen"); ?>, and Cynthia Roxanne Ortiz. <a href="https://github.com/jploia/ucibogosort" target="_blank">Garbagotchi.</a> IrvineHacks, 2025.</li>
-    <li><a href="https://lego-iready.itch.io/nest-of-life" target="_blank">Nest of Life.</a> ZotJam, 2024.</li>
+    <li><a href="https://lego-iready.itch.io/nest-of-life" target="_blank">Nest of Life.</a> ZotJam Fall, 2024.</li>
     <li><u>Rose Enos</u>, Jaden Kim, Jason Nguyen, and Cynthia Roxanne Ortiz. <a href="https://uciseek.roseeewater.com" target="_blank">UCISeek.</a> ZotHacks, 2024.
         <ul>
             <li>Third Place Winner</li>
