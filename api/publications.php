@@ -4,7 +4,7 @@ include('header.php');
 ?>
 <h1>Publications</h1>
 <h2>Research</h2>
-<p>I am contributing to two in-progress papers as part of my work with <?php mention($sites['michael'],'Professor Michael Shindler'); ?> on computer science education.</p>
+<p>I am contributing to several in-progress publications on computing education.</p>
 <section id="conference_proceedings">
     <p>Conference proceedings:</p>
     <script> echo_list("conference_proceedings"); </script>
@@ -71,10 +71,10 @@ include('header.php');
 <ul>
     <li><a href="https://lego-iready.itch.io/overlooked" target="_blank">Overlooked.</a> ZotJam Fall, 2026.</li>
     <li><a href="https://lego-iready.itch.io/buck-life" target="_blank">Buck Life.</a> ZotJam Spring, 2026.</li>
-    <li><u>Rose Enos</u> and <?php mention($sites["julia"],"Julia Nguyen"); ?>. <a href="https://lego-iready.itch.io/uc-cursed-love" target="_blank">UC Cursed Love.</a> ZotJam Fall, 2025.</li>
-    <li><u>Rose Enos</u>, <?php mention($sites["julia"],"Julia Nguyen"); ?>, and Cynthia Roxanne Ortiz. <a href="https://github.com/jploia/ucibogosort" target="_blank">Garbagotchi.</a> IrvineHacks, 2025.</li>
+    <li><u>Rose Enos</u> and <?php mention('Julia Nguyen'); ?>. <a href="https://lego-iready.itch.io/uc-cursed-love" target="_blank">UC Cursed Love.</a> ZotJam Fall, 2025.</li>
+    <li><u>Rose Enos</u>, <?php mention('Julia Nguyen'); ?>, and <?php mention('Cynthia Roxanne Ortiz'); ?>. <a href="https://github.com/jploia/ucibogosort" target="_blank">Garbagotchi.</a> IrvineHacks, 2025.</li>
     <li><a href="https://lego-iready.itch.io/nest-of-life" target="_blank">Nest of Life.</a> ZotJam Fall, 2024.</li>
-    <li><u>Rose Enos</u>, Jaden Kim, Jason Nguyen, and Cynthia Roxanne Ortiz. <a href="https://uciseek.roseeewater.com" target="_blank">UCISeek.</a> ZotHacks, 2024.
+    <li><u>Rose Enos</u>, Jaden Kim, Jason Nguyen, and <?php mention('Cynthia Roxanne Ortiz'); ?>. <a href="https://uciseek.roseeewater.com" target="_blank">UCISeek.</a> ZotHacks, 2024.
         <ul>
             <li>Third Place Winner</li>
         </ul>
@@ -85,7 +85,7 @@ include('header.php');
 </ul>
 <p>As part of the quarterly project teams of the Video Game Developer Club at UCI, I have contributed to these:</p>
 <ul>
-    <li><?php mention($sites["julia"],"Julia Nguyen"); ?>, Karina C., and Lucas Z. <a href="https://jploia.itch.io/pass-on" target="_blank">Pass On.</a> Written by Roxanne Bandy, <u>Rose Enos</u>, and Patrick Wang, 2025.</li>
+    <li><?php mention('Julia Nguyen'); ?>, Karina C., and Lucas Z. <a href="https://jploia.itch.io/pass-on" target="_blank">Pass On.</a> Written by Roxanne Bandy, <u>Rose Enos</u>, and Patrick Wang, 2025.</li>
     <li>Mehran Hossain and Diego Najera. <a href="https://fortunemh.itch.io/typing-gaem" target="_blank">Typing Gaem.</a> Programmed by Lexi Arballo, Derick Barrientos, Carson Beye, Marco Camacho, Tyler Cox, Ivan Guerrero Andres, and <u>Rose Enos</u>, 2024.</li>
     <li>Ziqing Li. <a href="https://felbiter.itch.io/heartstone-academy" target="_blank">Heartstone Academy.</a> Written by <u>Rose Enos</u>, kirian490, and Shreya Pujari, 2024.</li>
     <li>Ben Zhang. <a href="https://geminibllllue.itch.io/diabolic-lord-tdlf" target="_blank">Diabolic Lord.</a> Written by <u>Rose Enos</u>, 2024.</li>

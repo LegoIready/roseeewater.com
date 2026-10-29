@@ -26,7 +26,7 @@ include("header.php");
     </li>
     <li>Mu Chapter of California, Phi Beta Kappa</li>
 </ul>
-<p>My primary interest is computer science education. Since June of 2025, I do research, advised by <?php mention($sites["michael"],"Professor Michael Shindler"); ?>, about active learning, student experiences, and diversity, equity, and inclusion. I frequently collaborate with <?php mention($sites["julia"],"Julia Nguyen"); ?>. I apply my knowledge as a tutor for the School of ICS, as a learning assistant for the discrete math series and theory of computation, and as a peer. I intend to continue in computer science education as a PhD student.</p>
+<p>My primary interest is computer science education. Since June of 2025, I do research, advised by <?php mention('Michael Shindler'); ?>, about active learning, student experiences, and diversity, equity, and inclusion. I frequently collaborate with <?php mention('Julia Nguyen'); ?>. I apply my knowledge as a tutor for the School of ICS, as a learning assistant for the discrete math series and theory of computation, and as a peer. I intend to continue in computer science education as a PhD student.</p>
 <ul>
     <li>Economic, Social, and Cultural Factors in Student Experiences in Upper-Division and Graduate Computer Science Programs
         <ul>
